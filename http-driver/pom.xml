@@ -24,6 +24,10 @@
 
     <artifactId>neo4j-ogm-http-driver</artifactId>
 
+    <name>Neo4j-OGM HTTP transport</name>
+    <description>Neo4j-OGM transport that uses HTTP  to connect to Neo4j.</description>
+    <url>https://neo4j.com/docs/ogm-manual/current/</url>
+
     <properties>
         <java-module-name>org.neo4j.ogm.drivers.http</java-module-name>
     </properties>

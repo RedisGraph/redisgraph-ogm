@@ -24,6 +24,10 @@
 
   <artifactId>neo4j-ogm-api</artifactId>
 
+  <name>Neo4j-OGM Api</name>
+  <description>Neo4j-OGM's internal Api for connecting different transports.</description>
+  <url>https://neo4j.com/docs/ogm-manual/current/</url>
+
   <properties>
     <java-module-name>org.neo4j.ogm.drivers.api</java-module-name>
   </properties>

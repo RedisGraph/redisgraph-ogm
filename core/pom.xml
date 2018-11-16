@@ -24,6 +24,10 @@
 
     <artifactId>neo4j-ogm-core</artifactId>
 
+    <name>Neo4j-OGM</name>
+    <description>Neo4j-OGM is an Object Graph Mapping Library for Neo4j.</description>
+    <url>https://neo4j.com/docs/ogm-manual/current/</url>
+
     <properties>
         <java-module-name>org.neo4j.ogm.core</java-module-name>
     </properties>

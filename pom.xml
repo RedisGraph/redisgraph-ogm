@@ -20,8 +20,12 @@
 
     <groupId>org.neo4j</groupId>
     <artifactId>neo4j-ogm</artifactId>
-    <packaging>pom</packaging>
     <version>3.1.5-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <name>Neo4j-OGM Parent</name>
+    <description>Neo4j-OGM is an Object Graph Mapping Library for Neo4j.</description>
+    <url>https://neo4j.com/docs/ogm-manual/current/</url>
 
     <modules>
         <module>api</module>
